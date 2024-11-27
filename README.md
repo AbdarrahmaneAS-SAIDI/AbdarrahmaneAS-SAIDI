@@ -34,10 +34,12 @@ Let's connect! Feel free to check out my projects and collaborate on cybersecuri
 - Backup: Veeam.
 
 ## Certifications
+<!--
 - CompTIA Security+
 - AZ-104
 - ISO/IEC 27001 Lead Implementer
-- ccna
+- ccna 
+-->
 <div>
   <!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
 </div>
