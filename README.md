@@ -18,11 +18,27 @@ Let's connect! Feel free to check out my projects and collaborate on cybersecuri
 | To be listed | <a href="https://google.com">Building a SECURE Infrastructure</a>|
 
 ## Tools
+- Networking: Next-generation firewalls (FortiGate, Sophos), IPS/IDS (Suricata), Proxy/Reverse proxy/Load balancing (Nginx), Monitoring(Zabbix), PAM(CyberArk), MFA(Thales SafeNet Trusted Access).
+- Virtualisation: VMware vSphere, Microsoft Hyper-V.
+- System Administration: Linux (Red Hat, Ubuntu) and Windows Server (Active Directory).
+- Cloud: Azure, AWS.
+- Containerization: Docker, Kubernetes.
+- Programming and Scripting: Python, JavaScript, C, C++ Java, PowerShell, Bash.
+- Data Loss Prevention: Symantec DLP (Broadcom), Forcepoint DLP.
+- SIEM, XDR, EDR, HIDS: Splunk, Wazuh, and Elastic Stack (Elasticsearch, Logstash, Kibana, Fleet, Beats, Elastic Agent), Kaspersky.
+- SIRP (Security Incident and Response Platform): TheHive.
+- TIP (Threat Intelligence Platform): Cortex, MITRE ATT&CK, MISP.
+- SF (Security Frameworks): NIST, ISO.
+- Compliance: HIPAA, GDPR.
+- Backup: Veeam.
 
 ## Certifications
-- To be listed
+- CompTIA Security+
+- AZ-104
+- ISO/IEC 27001 Lead Implementer
+- ccna
 <div>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
 </div>
 
 ## Projects
