@@ -25,7 +25,8 @@ Let's connect! Feel free to check out my projects and collaborate on cybersecuri
 - Containerization: Docker, Kubernetes.
 - Programming and Scripting: Python, JavaScript, C, C++ Java, PowerShell, Bash.
 - Data Loss Prevention: Symantec DLP (Broadcom), Forcepoint DLP.
-- SIEM, XDR, EDR, HIDS: Splunk, Wazuh, and Elastic Stack (Elasticsearch, Logstash, Kibana, Fleet, Beats, Elastic Agent), Kaspersky.
+- Encryption: PGP, PKI.
+- SIEM, XDR, EDR, HIDS: Splunk, Wazuh, Elastic Stack (Elasticsearch, Logstash, Kibana, Fleet, Beats, Elastic Agent), Kaspersky.
 - SIRP (Security Incident and Response Platform): TheHive.
 - TIP (Threat Intelligence Platform): Cortex, MITRE ATT&CK, MISP.
 - SF (Security Frameworks): NIST, ISO.
