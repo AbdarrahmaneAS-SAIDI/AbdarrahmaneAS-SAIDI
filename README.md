@@ -18,16 +18,11 @@ Let's connect! Feel free to check out my projects and collaborate on cybersecuri
 | To be listed | <a href="https://google.com">Building a SECURE Infrastructure</a>|
 
 ## Tools
-<div align="center">
-  <h3
-</div>
 
 ## Certifications
 - To be listed
 <div>
-<!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/-AZ--104-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
