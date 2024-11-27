@@ -19,14 +19,15 @@ Let's connect! Feel free to check out my projects and collaborate on cybersecuri
 
 ## Tools
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,r,go,raspberrypi,docker,aws,azure,terraform,bash,elasticsearch,grafana,kafka,kubernetes,linux,ubuntu,windows,nginx,powershell,prometheus,redhat,tensorflow" /> </br>Other Tools To be listed... </a>
+  <h3
 </div>
 
 ## Certifications
 - To be listed
 <div>
 <!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/-AZ--104-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
 </div>
 
 ## Projects
