@@ -34,6 +34,7 @@ Let's connect! Feel free to check out my projects and collaborate on cybersecuri
 - Backup: Veeam.
 
 ## Certifications
+- To be listed
 <!--
 - CompTIA Security+
 - AZ-104
