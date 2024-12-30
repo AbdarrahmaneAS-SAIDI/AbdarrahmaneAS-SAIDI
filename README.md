@@ -4,7 +4,7 @@
 
 Currently, I'm pursuing a FINAL-YEAR INTERNSHIP at HPS, gaining hands-on experience in securing digital infrastructures. I have a strong foundation in networks, system administration, scripting, virtualization, cloud, AI and cybersecurity best practices.
 
-🚀 My goal: To design and implement cutting-edge security solutions as a Cybersecurity Architect. Always eager to learn and grow in the world of technology.
+🚀 My goal: To design and implement innovative security solutions as a future Cybersecurity Architect, while continuously evolving with emerging technologies.
 
 Let's connect! Feel free to check out my projects and collaborate on cybersecurity innovations:
 
